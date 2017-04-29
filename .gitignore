@@ -6,16 +6,10 @@ p2-image-classification/preprocess_batch_3.p
 p2-image-classification/cifar-10-python.tar.gz
 p2-image-classification/cifar-10-batches-py/**
 p2-image-classification/__pycache__/**
-
-
 p2-image-classification/image_classification.data-00000-of-00001
 
-p3-tv-script-generation/__pycache__/problem_unittests.cpython-36.pyc
-
-p3-tv-script-generation/__pycache__/helper.cpython-36.pyc
-
 p3-tv-script-generation/save.meta
-
 p3-tv-script-generation/save.data-00000-of-00001
-
 p3-tv-script-generation/save.index
+
+**/__pycache__/**
