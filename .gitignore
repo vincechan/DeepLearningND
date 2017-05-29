@@ -13,3 +13,6 @@ p3-tv-script-generation/save.data-00000-of-00001
 p3-tv-script-generation/save.index
 
 **/__pycache__/**
+
+p5-face_generation/data/**
+p5-face_generation/.ipynb_checkpoints/dlnd_face_generation-checkpoint.ipynb
